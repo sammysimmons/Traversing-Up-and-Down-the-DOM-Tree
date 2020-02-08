@@ -1,3 +1,5 @@
 $(document).ready(function() {
-    // put your code here
-});
+            $("card_para").click(function() {
+                    $('a').color(yellow);
+                }
+            });
